@@ -63,11 +63,23 @@ ________________________________________________________________________________
 Dashboard Screenshot
 <img width="1313" height="555" alt="US SUPERSTORE, 2015  Screenshot 2025-10-25 193944" src="https://github.com/user-attachments/assets/dafa0d94-a96e-470a-bc03-d1492ed31c19" />
 
+________________________________________________________________________________________________________________________________ 
+
 Monthly Sales Dasboard
 <img width="973" height="422" alt="Monthly Sales_Screenshot 2025-12-20 161931" src="https://github.com/user-attachments/assets/5d2a6c1a-49a5-4f7d-968a-bf6987592aef" /> 
 
+______________________________________________________________________________________________________________________________________ 
+
+US_MAP Screenshot 
+<img width="753" height="458" alt="US_ MAP Screenshot 2025-11-03 232030" src="https://github.com/user-attachments/assets/b3b4da52-b7b9-455d-ab70-4aa92829a06a" /> 
+
+______________________________________________________________________________________________________________________________________
+
+https://unsplash.com/photos/thank-you-message-on-paper-hanging-with-rope-on-yellow-background-5pwASHVBZbo 
 
 
+
+_____________________________________________________________________________________________________________________________________ 
 
 
 
