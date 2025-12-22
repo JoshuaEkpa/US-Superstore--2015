@@ -6,6 +6,7 @@ The results indicate that the store generated approximately $19.24 million in to
 __________________________________________________________________________________________________________________________________
 
 📌 Project Overview
+
 This project analyzes the sales performance of a retail store in 2015 using Microsoft Excel and Power BI. The goal is to uncover insights on revenue, product categories, regional performance, sales trends, and profitability, and to present findings through an interactive dashboard.
 
 _________________________________________________________________________________________________________________________________
