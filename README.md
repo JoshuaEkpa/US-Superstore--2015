@@ -61,7 +61,7 @@ ________________________________________________________________________________
 
 ______________________________________________________________________________________________________________________________________ 
 
-Conclusion 
+💡 Conclusion 
 The forecasted suggests a potential slowdown in revenue growth for 2016. Proactive data-driven strategies are required to stabilize performance and improve profitability. 
 
 
