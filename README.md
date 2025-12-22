@@ -19,7 +19,7 @@ ________________________________________________________________________________
 
 ___________________________________________________________________________________________________________________________________
 
-US SUPERSTORE DATASET 
+📊 US SUPERSTORE DATASET 
 1. Order_Date – Monthly sales period (2015)
 2. Product_Category - Technology, Furniture, Office Supplies 
 3. Region – North Central, South, East, West (US)
