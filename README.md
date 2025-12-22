@@ -19,6 +19,16 @@ ________________________________________________________________________________
 
 ___________________________________________________________________________________________________________________________________
 
+US SUPERSTORE DATASET 
+Order_Date – Monthly sales period (2015)
+Product_Category - Technology, Furniture, Office Supplies 
+Region – North Central, South, East, West (US)
+Units_Sold – Number of items sold 
+Revenue – Sales Revenue (USD)
+Profit – Profit generated (USD) 
+
+______________________________________________________________________________________________________________________________ 
+
 🛠 Tools Used
 1. Microsoft Excel
 i. Data cleaning and preparation
@@ -49,7 +59,13 @@ ________________________________________________________________________________
 4. Monthly sales trend visualization
 5. Profit performance indicator
 
-______________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________________ 
+
+Conclusion 
+The forecasted suggests a potential slowdown in revenue growth for 2016. Proactive data-driven strategies are required to stabilize performance and improve profitability. 
+
+
+___________________________________________________________________________________________________________________________________
 
 💡 Business Recommendations
 
