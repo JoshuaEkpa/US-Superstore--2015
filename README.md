@@ -20,12 +20,12 @@ ________________________________________________________________________________
 ___________________________________________________________________________________________________________________________________
 
 US SUPERSTORE DATASET 
-Order_Date – Monthly sales period (2015)
-Product_Category - Technology, Furniture, Office Supplies 
-Region – North Central, South, East, West (US)
-Units_Sold – Number of items sold 
-Revenue – Sales Revenue (USD)
-Profit – Profit generated (USD) 
+1. Order_Date – Monthly sales period (2015)
+2. Product_Category - Technology, Furniture, Office Supplies 
+3. Region – North Central, South, East, West (US)
+4. Units_Sold – Number of items sold 
+5. Revenue – Sales Revenue (USD)
+6. Profit – Profit generated (USD) 
 
 ______________________________________________________________________________________________________________________________ 
 
