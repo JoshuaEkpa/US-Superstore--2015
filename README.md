@@ -105,7 +105,7 @@ US_MAP Screenshot
 <img width="753" height="458" alt="US_ MAP Screenshot 2025-11-03 232030" src="https://github.com/user-attachments/assets/b3b4da52-b7b9-455d-ab70-4aa92829a06a" /> 
 
 ______________________________________________________________________________________________________________________________________
-Let's Dive Into The World Of DATA
+Exploring the World the Data to Deliver Actionable and Impactful Insights  
 <img width="586" height="400" alt="Screenshot 2025-12-20 192650" src="https://github.com/user-attachments/assets/c6e28db4-9968-46cc-8c89-1b6b6e840330" />
 
 
@@ -115,5 +115,9 @@ ________________________________________________________________________________
 
 👤 Author
 Joshua Ekpa
-Data Analyst | Excel | Power BI | Business Intelligence
+Data Analyst | Excel | Power BI | SQL | Business Intelligence
+📬 Contact: +234 816 778 7222
+📧 Email: joshuaekpa5@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/joshua-ekpa-302223327
+🔗 Wix APP: https://joshuaekpa5.wixsite.com/joshuaekpa
 
